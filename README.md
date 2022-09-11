@@ -3,4 +3,4 @@
 # pkg install git 
 # git clone https://github.com/sayedakbarahmadi/ahm.git
 # cd ahm
-# python2
+# python2 install.lxml
